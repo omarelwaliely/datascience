@@ -7,9 +7,5 @@ This repository serves as my personal data science sandbox, filled with Jupyter 
 * **Notebooks:** Dive into various data science areas like data analysis, machine learning, and visualization through hands-on notebooks.
 * **Experiments:** Witness my ongoing attempts to tackle specific problems using data science tools.
 
-## My Goal:
-
-* Solidify my understanding of data science through practical exercise and experimentation.
-
 
 
